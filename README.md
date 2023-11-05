@@ -10,5 +10,5 @@
 # Contact
 - [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/)
 - [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii)
-- [![Tableau Public](https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image_view_fullscreen) Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)
+- [![Tableau Public](https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png) Tableau](tableau_icon.png)
 - Email: sonyahseiden@gmail.com
