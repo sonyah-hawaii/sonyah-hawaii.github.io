@@ -7,3 +7,8 @@ Portfolio
 -- add OYS project
 - About Me Dashboard
 - Personal interests & skills
+
+- Contact
+[LinkedIn](https://www.linkedin.com/in/sonyahseiden/)
+[GitHub](https://github.com/sonyah-hawaii)
+[Tableau Public](https://public.tableau.com/app/profile/sonyah/vizzes)
