@@ -1,5 +1,3 @@
-# Portfolio
-
 ## Academic Experience
 ## Expertise / Professional Background
 ## Featured Projects
