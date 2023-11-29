@@ -5,7 +5,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-skin: dark
+# skin: dark
 # Available skins are:
 # classic (Default)
 # dark Dark
