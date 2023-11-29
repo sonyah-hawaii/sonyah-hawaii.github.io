@@ -5,7 +5,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-skin: solarized-light
+skin: solarized-dark
 
 title: Sonyah G. Seiden - Portfolio
 author: Sonyah G. Seiden
