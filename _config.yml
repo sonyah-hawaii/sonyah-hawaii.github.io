@@ -5,8 +5,15 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-skin: solarized-dark
-
+skin: dark
+# Available skins are:
+# classic (Default)
+# dark Dark
+# auto
+# solarized-light
+# solarized-dark
+# solarized
+  
 title: Sonyah G. Seiden - Portfolio
 author: Sonyah G. Seiden
 
