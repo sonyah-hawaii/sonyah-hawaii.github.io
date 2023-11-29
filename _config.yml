@@ -1,3 +1,5 @@
-theme: Cayman
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: Sonyah G Seiden - Portfolio
 description: Learn more about my academic & professional background. See examples of my technical capabilities.
