@@ -1,4 +1,15 @@
 ## Academic Experience
+======================
+### B.A., Honors in Art History & Economics from Franklin University Switzerland
+#### *Magna cum laude with 3.69 GPA*
+#### *Class of 2016*
+### Projects
+## Technical Training
+### Certificate in Data Analytics (2018)
+#### 
+### Data Science Fellowship (2018)
+### Certificate in Product Management (2021)
+
 ## Expertise / Professional Background
 ## Featured Projects
 ## - add OYS project
@@ -8,5 +19,6 @@
 # Contact
 ## [![LinkedIn](https://i.stack.imgur.com/gVE0j.png = 50x50) LinkedIn](https://www.linkedin.com/in/sonyahseiden/)
 ## [![GitHub](https://i.stack.imgur.com/tskMh.png = 50x50) GitHub](https://github.com/sonyah-hawaii)
-## [![Tableau](https://iconape.com/wp-content/files/zt/110872/png/tableau-software.png = 50x50)]
+## [![Tableau](./tableau.png = 50x50)]
 **Email**: *sonyahseiden@gmail.com*
+
