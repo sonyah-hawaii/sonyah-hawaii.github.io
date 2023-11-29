@@ -19,4 +19,4 @@ description: >
 #social_links
 - { platform: github, user_url: "https://github.com/sonyah-hawaii" }
 - { platform: linkedin, user_url: "https://www.linkedin.com/in/sonyahseiden/" }
-- { platform: tableau, user_url: "https://public.tableau.com/app/profile/sonyah/vizzes/" }
+# - { platform: tableau, user_url: "https://public.tableau.com/app/profile/sonyah/vizzes/" }
