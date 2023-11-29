@@ -22,8 +22,8 @@
 ### Shameless indulgences: reality tv, any dessert with sea salt caramel
 
 # **Contact**
-[![Tableau](tableau.png = 75x75) Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)
+[![Tableau](https://icons8.com/icon/9Kvi1p1F0tUo/tableau-software = 75x75) Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)
 
 
-## [![LinkedIn](https://i.stack.imgur.com/gVE0j.png = 75x75) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png = 75x75) GitHub](https://github.com/sonyah-hawaii) | 
+## [![LinkedIn](https://i.stack.imgur.com/gVE0j.png = 75x75) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png = 100x100) GitHub](https://github.com/sonyah-hawaii) | 
 **Email**: *sonyahseiden@gmail.com*
