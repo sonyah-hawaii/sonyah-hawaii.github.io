@@ -3,7 +3,7 @@ plugins:
 - jekyll-feed
 - jekyll-seo-tag
 
-skin: solarized-light
+# skin: solarized-light
 
 title: Sonyah G Seiden - Portfolio
 author:
