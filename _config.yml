@@ -1,3 +1,10 @@
+remote_theme: jekyll/minima
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+skin: solarized-light
+
 title: Sonyah G Seiden - Portfolio
 author:
   name: sonyah-hawaii
@@ -6,13 +13,6 @@ author:
 description: >
   Learn more about my academic & professional background.
    See examples of my technical capabilities with featured projects.
-
-remote_theme: jekyll/minima
-plugins:
-- jekyll-feed
-- jekyll-seo-tag
-
-skin: solarized-light
 
 #social_links
 - { platform: github, user_url: "https://github.com/sonyah-hawaii" }
