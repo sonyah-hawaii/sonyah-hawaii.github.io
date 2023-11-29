@@ -1,16 +1,14 @@
-theme: minima
-# remote_theme: jekyll/minima
+# theme: minima
+remote_theme: jekyll/minima
 
-# plugins:
-#   - jekyll-feed
-#   - jekyll-seo-tag
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
-# skin: solarized-light
+skin: solarized-light
 
-title: Sonyah G Seiden - Portfolio
-author:
-  name: sonyah-hawaii
-  email: sonyahseiden@gmail.com
+title: Sonyah G. Seiden - Portfolio
+author: Sonyah G. Seiden
 
 description: >
   Learn more about my academic & professional background.
