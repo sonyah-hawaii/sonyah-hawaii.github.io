@@ -1,5 +1,20 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme
 title: Sonyah G Seiden - Portfolio
-description: Learn more about my academic & professional background. See examples of my technical capabilities.
+author:
+  name: sonyah-hawaii
+  email: sonyahseiden@gmail.com
+
+description: >
+  Learn more about my academic & professional background.
+   See examples of my technical capabilities with featured projects.
+
+remote_theme: jekyll/minima
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+
+skin: solarized-light
+
+#social_links
+- { platform: github, user_url: "https://github.com/sonyah-hawaii" }
+- { platform: linkedin, user_url: "https://www.linkedin.com/in/sonyahseiden/" }
+- { platform: tableau, user_url: "https://public.tableau.com/app/profile/sonyah/vizzes/" }
