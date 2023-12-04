@@ -1,5 +1,8 @@
-# Welcome!
+
+Impact-oriented leader focused on balancing priorities and building on team capabilities to maintain productivity. I am driven by tangible change to databases and reporting systems that improve employees' daily experience and allow businesses to leverage key data more quickly and accurately.  
   
+I have had a major part in overhauling reporting infrastructure for 2 companies: a luxury e-commerce company and ratings agency.
+
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics
 ### Franklin University Switzerland
@@ -33,30 +36,30 @@
 #### Instructional Associate
 - Key Skills Used:
 - Major Accomplishments:
-- Experience Gained:
+- Experience Gained:s
 ### R2Net
 #### Business Intelligence Manager
-- Key Skills Used:
-- Major Accomplishments:
-- Experience Gained:
+- Key Skills Used: delegation, priority management, sql, python, regex
+- Major Accomplishments: developing data procecssing library, building out reporting & auto-replenishment pipelines for manufacturing
+- Experience Gained: managing large-scale, long-term projects involving multiple teams, overseeing multiple analysts   
 #### Senior Operations Analyst
-- Key Skills Used:
-- Major Accomplishments:
-- Experience Gained:
+- Key Skills Used: sql, python, regex, delegation, collaboration
+- Major Accomplishments: establishing direct database connections, building out new reports for operations & merchandising
+- Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change   
 #### Operations Analyst
-- Key Skills Used:
-- Major Accomplishments:
-- Experience Gained:
+- Key Skills Used: python, regex, excel
+- Major Accomplishments: automating daily sales data processing & reporting
+- Experience Gained:   
 ### AOB
 #### Associate Manager
-- Key Skills Used:
+- Key Skills Used: adaptive communication, building stakeholder trust, documentation & organization
 - Major Accomplishments:
-- Experience Gained:
-
-
+- Experience Gained: Understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities.
+   
+   
 ## **_Featured Projects_**
 ## About Me Dashboard
-
+[![Skills](/assets/skills.png)]   
 ## **Skills**
 
 
