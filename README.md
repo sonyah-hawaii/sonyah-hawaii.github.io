@@ -56,11 +56,12 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 - Major Accomplishments:
 - Experience Gained: Understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities.
    
-   
-## **_Featured Projects_**
-## About Me Dashboard
-[![Skills](/assets/skills.png)]   
 ## **Skills**
+*This bubble graph outlines my key skills with languages, softwares, and common platforms.*
+[Skills](/assets/skills.png)   
+   
+*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.*
+[SQL](/assets/sql.png)
 
 
 ## **Other**
