@@ -27,29 +27,39 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 #### Product Owner (Technical)
 - Key Skills Used:
 - Major Accomplishments:
-- Experience Gained:
+- Experience Gained:    
+<u>                            </u>   
+
 ### General Assembly
 #### Lead Instructor
 - Key Skills Used:
 - Major Accomplishments:
-- Experience Gained:
+- Experience Gained:   
+<u>                            </u>   
+
 #### Instructional Associate
 - Key Skills Used:
 - Major Accomplishments:
-- Experience Gained:s
+- Experience Gained:   
+<u>                            </u>   
+
 ### R2Net
 #### Business Intelligence Manager
 - Key Skills Used: delegation, priority management, sql, python, regex
 - Major Accomplishments: developing data procecssing library, building out reporting & auto-replenishment pipelines for manufacturing
 - Experience Gained: managing large-scale, long-term projects involving multiple teams, overseeing multiple analysts   
+   
 #### Senior Operations Analyst
 - Key Skills Used: sql, python, regex, delegation, collaboration
 - Major Accomplishments: establishing direct database connections, building out new reports for operations & merchandising
 - Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change   
+   
 #### Operations Analyst
 - Key Skills Used: python, regex, excel
 - Major Accomplishments: automating daily sales data processing & reporting
-- Experience Gained:   
+- Experience Gained:  
+<u>                            </u>   
+
 ### AOB
 #### Associate Manager
 - Key Skills Used: adaptive communication, building stakeholder trust, documentation & organization
