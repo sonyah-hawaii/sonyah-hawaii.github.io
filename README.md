@@ -58,10 +58,10 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
    
 ## **Skills**
 *This bubble graph outlines my key skills with languages, softwares, and common platforms.*
-[Skills](/assets/skills.png)   
+![Skills](/assets/skills.png)   
    
 *In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.*
-[SQL](/assets/sql.png)
+![SQL](/assets/sql.png)
 
 
 ## **Other**
