@@ -10,11 +10,10 @@ As a manager, I strive to create a positive collaborative environment allowing t
 As a colleague, I focus on proactive communication, building trust, and minimizing resource conflicts.   
     
 ## **Skills**
-*To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
+*To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role and turned it into a Tableau dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
 ![Skills](/assets/skills_dash.png)   
     
-*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases. I first learned Postgres and have worked with a number of flavors, since.*   
-*Most recently, I've gained exposure to Snowflake & Google BigQuery.*   
+*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases. I first learned Postgres and have worked with a number of flavors, since. Most recently, Snowflake & Google BigQuery.*   
 ![SQL](/assets/sql.png)
 
 ## **Academic Experience**
