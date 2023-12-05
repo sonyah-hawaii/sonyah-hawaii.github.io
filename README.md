@@ -67,10 +67,12 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 - Experience Gained: Understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities.
    
 ## **Skills**
+*To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
+   
 *This bubble graph outlines my key skills with languages, softwares, and common platforms.*
 ![Skills](/assets/skills_dash.png)   
    
-*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.*
+*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.I started with Postgres and have worked with a number, since. Most recently, gaining exposure to Snowflake & Google BigQuery.*
 ![SQL](/assets/sql.png)
 
 
