@@ -1,3 +1,4 @@
+## Sonyah G. Seiden
 ## *Data professional with 5 years' experience seeking a role as a Senior, Team Lead, or Manager to tackle large projects with broad impact.*
 > Ability takes you to the top, character keeps you there. - John Wooden
 
