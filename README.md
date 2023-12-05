@@ -1,14 +1,14 @@
 > Ability takes you to the top, character keeps you there.
 
-Impact-oriented leader focused on balancing priorities and building on team capabilities to maintain productivity. I am driven by tangible changes that improve employees' experience and productivity & allow businesses to leverage key data more quickly and accurately. My expertise is in overhaling legacy systems by reviewing, documenting, and pooling databases, restructuring data objects to suit business logic, and building out scalable reporting systems that can easily adapt to evolving needs across the business.   
+## *Seeking a role as a Senior, Team Lead, or Manager to tackle large projects with broad impact.*
+
+Impact-oriented leader focused on balancing priorities and building on team capabilities to maintain productivity. I am driven by tangible changes that improve employees' experience and productivity & allow businesses to leverage key data more quickly and accurately. My expertise is in overhauling legacy systems by reviewing, documenting, and pooling databases, restructuring data objects to suit business logic, and building out scalable reporting systems that can easily adapt to evolving needs across the business.   
    
 With a professional background in e-commerce & finance, I have worked on projects for a variety of teams & departments, including: operations, sales, merchandising, manufacturing, logistics, customer relations, data stewards, and finance.   
    
 As a manager, I strive to create a positive, collaborative dynamic allowing teammembers to succeed in their own goals and develop their skillset while delivering notable value.   
 As a colleague, I focus on proactive communication, building trust, and minimizing resource conflicts.   
-   
-I am seeking a role as a Senior, Team Lead, or Manager to tackle large projects with wide impact.
-   
+      
    
 ## **Skills**
 *To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
