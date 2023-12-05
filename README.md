@@ -25,36 +25,40 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 ## **Expertise / Professional Background**  
 ### <u>General Assembly</u>
 ### *Lead Instructor*
-- Key Skills Used:
-- Major Accomplishments:
+- Key Skills Used: 
+- Major Accomplishments: Lead for 1 full-time course, 2 part-time courses
 - Experience Gained:   
    
-#### *Instructional Associate*
-- Key Skills Used:
-- MajorAccomplishments:
-- Experience Gained:   
+### *Instructional Associate*
+- Key Skills Used: code review, inter-team communication, collaboration, repository management, mentorship
+- Major Accomplishments: 4.7 average instructor rating
+- Experience Gained: Code review, practical feedback, mentorship, methodology guidance
    
 ### <u>KBRA</u>
 ### *Product Owner (Technical)*
 - Key Skills Used: adaptive communication, building stakeholder trust, documentation & organization
-- Major Accomplishments:
-- Experience Gained: Understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities. 
+- Major Accomplishments: building out suite of APIs & validations for primary database, developing & formalizing complex business logic into OOP reporting infrastructure
+- Experience Gained: understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities. 
    
 ### <u>R2Net</u>
 ### *Business Intelligence Manager*
-- Key Skills Used: delegation, priority management, sql, python, regex
+- Key Skills Used: 
+  - technical: sql, python, regex
+  - non-technical: hiring & training, delegation, priority management
 - Major Accomplishments: developing data procecssing library, building out reporting & auto-replenishment pipelines for manufacturing
 - Experience Gained: managing large-scale, long-term projects involving multiple teams, overseeing multiple analysts   
    
 ### *Senior Operations Analyst*
-- Key Skills Used: sql, python, regex, delegation, collaboration
+- Key Skills Used: 
+  - technical: sql, python, regex
+  - non-technical: hiring & training, delegation, collaboration
 - Major Accomplishments: establishing direct database connections, building out new reports for operations & merchandising
-- Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change   
+- Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change by managing up
     
 ### *Operations Analyst*
 - Key Skills Used: python, regex, excel
 - Major Accomplishments: automating daily sales data processing & reporting
-- Experience Gained:  
+- Experience Gained: formalizing business logic, proactive solution development
    
 ## **Skills**
 *To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
