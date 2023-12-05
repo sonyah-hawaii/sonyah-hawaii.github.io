@@ -1,5 +1,5 @@
-## -
-
+Welcome! Learn more about me & my experience. You can find some examples of my work on my GitHub and Tableau Public profiles linked below. If you'd like to get in touch, please reach out on LinkedIn or via email.   
+   
 ### [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
 
