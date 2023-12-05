@@ -24,44 +24,41 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 
 ## **Expertise / Professional Background**
 ### KBRA
-#### Product Owner (Technical)
+### *Product Owner (Technical)*
 - Key Skills Used:
 - Major Accomplishments:
 - Experience Gained:    
-<u>                            </u>   
-
-### General Assembly
-#### Lead Instructor
+   
+### **General Assembly**
+### <u>Lead Instructor</u>
 - Key Skills Used:
 - Major Accomplishments:
 - Experience Gained:   
-<u>                            </u>   
-
-#### Instructional Associate
+   
+#### <u>Instructional Associate</u>
 - Key Skills Used:
-- Major Accomplishments:
+- MajorAccomplishments:
 - Experience Gained:   
-<u>                            </u>   
-
-### R2Net
-#### Business Intelligence Manager
+   
+### **R2Net**
+### <u>Business Intelligence Manager</u>
 - Key Skills Used: delegation, priority management, sql, python, regex
 - Major Accomplishments: developing data procecssing library, building out reporting & auto-replenishment pipelines for manufacturing
 - Experience Gained: managing large-scale, long-term projects involving multiple teams, overseeing multiple analysts   
    
-#### Senior Operations Analyst
+### <u>Senior Operations Analyst</u>
 - Key Skills Used: sql, python, regex, delegation, collaboration
 - Major Accomplishments: establishing direct database connections, building out new reports for operations & merchandising
 - Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change   
    
-#### Operations Analyst
+### <u>Operations Analyst</u>
 - Key Skills Used: python, regex, excel
 - Major Accomplishments: automating daily sales data processing & reporting
 - Experience Gained:  
 <u>                            </u>   
 
-### AOB
-#### Associate Manager
+### **AOB**
+#### <u>Associate Manager</u>
 - Key Skills Used: adaptive communication, building stakeholder trust, documentation & organization
 - Major Accomplishments:
 - Experience Gained: Understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities.
