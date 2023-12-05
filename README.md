@@ -1,12 +1,10 @@
 ## Sonyah G. Seiden
-## *Data professional with 5 years' experience seeking a role as a Senior, Team Lead, or Manager to tackle large projects with broad impact.*
+## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.*
 > Ability takes you to the top, character keeps you there. - John Wooden
 
-I am driven by tangible changes that improve employees' experience and productivity & allow businesses to leverage key data more quickly and accurately. My expertise is in overhauling legacy systems by reviewing, documenting, and pooling databases, restructuring data objects to suit business logic, and building out scalable reporting systems that can easily adapt to evolving needs across the business.   
+I am driven by **tangible changes** that **improve employees' experience** and **productivity** & **allow businesses** to **leverage key data** more **quickly** and **accurately**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
    
-With a background in e-commerce & finance, I have worked on projects for a variety of teams & departments, including: operations, sales, merchandising, manufacturing, logistics, customer relations, data stewards, and finance.   
-   
-As a manager, I strive to create a positive collaborative environment allowing teammembers to succeed in their own goals and build their capabilities to deliver sustained, notable value.   
+As a manager, I strive to create a positive collaborative environment allowing team members to succeed in their own goals and build their capabilities to deliver sustained, notable value.   
 As a colleague, I focus on proactive communication, building trust, and minimizing resource conflicts.   
     
 ## **Skills**
@@ -15,6 +13,19 @@ As a colleague, I focus on proactive communication, building trust, and minimizi
     
 *In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases. I first learned Postgres and have worked with a number of flavors, since. Most recently, Snowflake & Google BigQuery.*   
 ![SQL](/assets/sql.png)
+   
+## **Professional Background**  
+With a **background** in **e-commerce** & **finance**, I have worked on projects for a variety of teams & departments, including: **operations**, **sales**, **merchandising**, **manufacturing**, **logistics**, **data entry**, and **finance**.   
+
+### Refer to my [resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) for more detail on my previous roles & responsibilities.
+
+### **Key Accomplishments**
+- 18 contracts with General Assembly, 2 as a lead
+- 4.7 avg. instructor rating as an IA
+- Hired & trained 5 analysts at R2Net
+- Trained 2 data engineers on key database & reports at KBRA
+- Had a direct hand in the development of proprietary data processing libraries (KBRA & R2net)
+- Built out reporting system that reduced factory replenishment from 6-month schedule to biweekly
 
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics
@@ -34,45 +45,6 @@ As a colleague, I focus on proactive communication, building trust, and minimizi
 - Certificate in Data Analytics (2018)
   - **_Featured Project:_** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)
 
-
-## **Expertise / Professional Background**  
-### <u>General Assembly</u>
-### *Lead Instructor*
-- Key Skills Used: 
-- Major Accomplishments: Lead for 1 full-time course, 2 part-time courses
-- Experience Gained:   
-   
-### *Instructional Associate*
-- Key Skills Used: code review, inter-team communication, collaboration, repository management, mentorship
-- Major Accomplishments: 4.7 average instructor rating
-- Experience Gained: Code review, practical feedback, mentorship, methodology guidance
-   
-### <u>KBRA</u>
-### *Product Owner (Technical)*
-- Key Skills Used: adaptive communication, building stakeholder trust, documentation & organization
-- Major Accomplishments: building out suite of APIs & validations for primary database, developing & formalizing complex business logic into OOP reporting infrastructure
-- Experience Gained: understanding of how to plan & build out enterprise-grade reporting pipelines in a cloud environment. Working with multiple, large teams to align priorities. 
-   
-### <u>R2Net</u>
-### *Business Intelligence Manager*
-- Key Skills Used: 
-  - technical: sql, python, regex
-  - non-technical: hiring & training, delegation, priority management
-- Major Accomplishments: developing data procecssing library, building out reporting & auto-replenishment pipelines for manufacturing
-- Experience Gained: managing large-scale, long-term projects involving multiple teams, overseeing multiple analysts   
-   
-### *Senior Operations Analyst*
-- Key Skills Used: 
-  - technical: sql, python, regex
-  - non-technical: hiring & training, delegation, collaboration
-- Major Accomplishments: establishing direct database connections, building out new reports for operations & merchandising
-- Experience Gained: tracking & measuring improvements to data, building stakeholder trust, influencing change by managing up
-    
-### *Operations Analyst*
-- Key Skills Used: python, regex, excel
-- Major Accomplishments: automating daily sales data processing & reporting
-- Experience Gained: formalizing business logic, proactive solution development
-   
 ## **Other**
 ### *Places Lived (in order of time)*: Honolulu, New York, Switzerland, Rome, Milan
 ### *Languages*: English (native), Italian (advanced), French (proficient)
