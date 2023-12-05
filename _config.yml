@@ -15,11 +15,10 @@ plugins:
 # solarized
   
 title: Sonyah G. Seiden - Portfolio
-author: Sonyah G. Seiden
+# author: Sonyah G. Seiden
 
 description: >
-  Learn more about my academic & professional background.
-   See examples of my technical capabilities with featured projects.
+  "Ability takes you to the top, character keeps you there."" - John Wooden
 
 #social_links
 # - { platform: github, user_url: "https://github.com/sonyah-hawaii" }

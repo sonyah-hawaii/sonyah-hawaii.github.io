@@ -2,8 +2,6 @@
 **Email**: *sonyahseiden@gmail.com*   
 
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.*
-> Ability takes you to the top, character keeps you there. 
->     - John Wooden
 
 I am driven by **tangible changes** that **improve employees' experience** and **productivity** & **allow businesses** to **leverage key data** more **quickly** and **accurately**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
    
