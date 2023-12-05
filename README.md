@@ -1,7 +1,5 @@
-## Data professional with 5 years' experience seeking a role as a Senior, Team Lead, or Manager to tackle large projects with broad impact.
-   
-*My work ethic is best summarized by John Wooden's quote:*
-> Ability takes you to the top, character keeps you there.
+## *Data professional with 5 years' experience seeking a role as a Senior, Team Lead, or Manager to tackle large projects with broad impact.*
+> Ability takes you to the top, character keeps you there. - John Wooden
 
 I am driven by tangible changes that improve employees' experience and productivity & allow businesses to leverage key data more quickly and accurately. My expertise is in overhauling legacy systems by reviewing, documenting, and pooling databases, restructuring data objects to suit business logic, and building out scalable reporting systems that can easily adapt to evolving needs across the business.   
    
