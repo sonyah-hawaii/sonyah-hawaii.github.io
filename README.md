@@ -1,7 +1,23 @@
+> Ability takes you to the top, character keeps you there.
 
-Impact-oriented leader focused on balancing priorities and building on team capabilities to maintain productivity. I am driven by tangible change to databases and reporting systems that improve employees' daily experience and allow businesses to leverage key data more quickly and accurately.  
-  
-I have had a major part in overhauling reporting infrastructure for 2 companies: a luxury e-commerce company and ratings agency.
+Impact-oriented leader focused on balancing priorities and building on team capabilities to maintain productivity. I am driven by tangible changes that improve employees' experience and productivity & allow businesses to leverage key data more quickly and accurately. My expertise is in overhaling legacy systems by reviewing, documenting, and pooling databases, restructuring data objects to suit business logic, and building out scalable reporting systems that can easily adapt to evolving needs across the business.   
+   
+With a professional background in e-commerce & finance, I have worked on projects for a variety of teams & departments, including: operations, sales, merchandising, manufacturing, logistics, customer relations, data stewards, and finance.   
+   
+As a manager, I strive to create a positive, collaborative dynamic allowing teammembers to succeed in their own goals and develop their skillset while delivering notable value.   
+As a colleague, I focus on proactive communication, building trust, and minimizing resource conflicts.   
+   
+I am seeking a role as a Senior, Team Lead, or Manager to tackle large projects with wide impact.
+   
+   
+## **Skills**
+*To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
+   
+*This bubble graph outlines my key skills with languages, softwares, and common platforms.*
+![Skills](/assets/skills_dash.png)   
+    
+*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.I started with Postgres and have worked with a number, since. Most recently, gaining exposure to Snowflake & Google BigQuery.*
+![SQL](/assets/sql.png)
 
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics
@@ -60,23 +76,13 @@ I have had a major part in overhauling reporting infrastructure for 2 companies:
 - Major Accomplishments: automating daily sales data processing & reporting
 - Experience Gained: formalizing business logic, proactive solution development
    
-## **Skills**
-*To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role. I then passed this data into Tableau to create a dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).*   
-   
-*This bubble graph outlines my key skills with languages, softwares, and common platforms.*
-![Skills](/assets/skills_dash.png)   
-    
-*In the 5 years of using SQL, I've worked with a variety of flavors across multiple databases.I started with Postgres and have worked with a number, since. Most recently, gaining exposure to Snowflake & Google BigQuery.*
-![SQL](/assets/sql.png)
-
-
 ## **Other**
 ### *Places Lived (in order of time)*: Honolulu, New York, Switzerland, Rome, Milan
 ### *Languages*: English (native), Italian (advanced), French (proficient)
 ### *Hobbies*: painting & drawing, backgammon, reading, cooking, thrifting
 ### *Shameless indulgences*: reality tv, spa days, anything sea salt caramel
 
-# **Socials**
+## **Socials**
 ### [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)
 
 **Email**: *sonyahseiden@gmail.com*
