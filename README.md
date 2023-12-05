@@ -1,6 +1,9 @@
-## Sonyah G. Seiden
+### [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
+**Email**: *sonyahseiden@gmail.com*   
+
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.*
-> Ability takes you to the top, character keeps you there. - John Wooden
+> Ability takes you to the top, character keeps you there. 
+>     - John Wooden
 
 I am driven by **tangible changes** that **improve employees' experience** and **productivity** & **allow businesses** to **leverage key data** more **quickly** and **accurately**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
    
@@ -20,7 +23,7 @@ With a **background** in **e-commerce** & **finance**, I have worked on projects
 ### Refer to my [resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) for more detail on my previous roles & responsibilities.
 
 ### **Key Accomplishments**
-- 18 contracts with General Assembly, 2 as a lead
+- 18 contracts with General Assembly, 3 as a lead
 - 4.7 avg. instructor rating as an IA
 - Hired & trained 5 analysts at R2Net
 - Trained 2 data engineers on key database & reports at KBRA
@@ -30,7 +33,7 @@ With a **background** in **e-commerce** & **finance**, I have worked on projects
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics
 ### Franklin University Switzerland
-#### *Magna cum laude with 3.69 GPA*
+#### *Magna cum laude, 3.69 GPA*
 #### *Class of 2016*
 ### **_Featured Projects_**
 - Honors Thesis: [The Cultural Economy Evolution of Communist China](https://www.dropbox.com/s/gsgqfrrfpdt7qh1/Senior%20Project.pdf?dl=0)
@@ -50,8 +53,3 @@ With a **background** in **e-commerce** & **finance**, I have worked on projects
 ### *Languages*: English (native), Italian (advanced), French (proficient)
 ### *Hobbies*: painting & drawing, backgammon, reading, cooking, thrifting
 ### *Shameless indulgences*: reality tv, spa days, anything sea salt caramel
-
-## **Socials**
-### [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)
-
-**Email**: *sonyahseiden@gmail.com*
