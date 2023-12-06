@@ -14,13 +14,13 @@ As a colleague, I focus on proactive communication, building trust, and minimizi
 ## **Skills**
 To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role and turned it into a Tableau dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).   
    
-*This dashboard outlines my experience with programming languages, including various flavors of SQL I have worked with.*   
+*This dashboard outlines my experience with programming languages, including detail on the flavors of SQL.*   
 ![Languages](/assets/programming_experience.png)
       
-*This dashboard provides an overview of my skillset, and the proportions of each skill group in my previous roles.*   
+*This dash provides an overview of my skills and their share of responsibilities in my previous roles.*   
 ![Skills](/assets/skills_dash.png)   
      
-*There's also a detailed view of skills used in my previous role, grouped by skill type.*
+*There's also a detailed view of skills used in roles, grouped by type.*
 ![Skills-by-job](/assets/skills_by_job.png)
        
 
@@ -47,12 +47,12 @@ With a **background** in **e-commerce** & **finance**, I have worked on projects
 - [Modeling Retention At FUS](https://www.slideshare.net/SonyahSeiden/retention-at-fus-63031477)
 
 ## **Technical Training**
-Certificate in Product Management (2021)
-**_Featured Project:_** [SecondSeid](https://docs.google.com/presentation/d/1QKnIY2CV-IryE60fJK4vqi5bh5KWzC5ZHBQ_wkm0OpU/edit?usp=sharing)
-Data Science Fellowship (2018)
-**_Featured Project:_** [Modeling CO2 Consumption & Abatement with Bayesian Regression](https://github.com/sonyah-hawaii/Capstone)
-Certificate in Data Analytics (2018)
-**_Featured Project:_** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)
+Certificate in Product Management (2021)   
+**_Featured Project:_** [SecondSeid](https://docs.google.com/presentation/d/1QKnIY2CV-IryE60fJK4vqi5bh5KWzC5ZHBQ_wkm0OpU/edit?usp=sharing)   
+Data Science Fellowship (2018)   
+**_Featured Project:_** [Modeling CO2 Consumption & Abatement with Bayesian Regression](https://github.com/sonyah-hawaii/Capstone)   
+Certificate in Data Analytics (2018)   
+**_Featured Project:_** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)   
 
 ## **Other**
 ### *Places Lived (in order of time)*: Honolulu, New York, Switzerland, Rome, Milan
