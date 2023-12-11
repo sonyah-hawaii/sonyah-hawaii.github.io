@@ -27,15 +27,14 @@ To quantify & demonstrate my skillset, I created a list of the languages, tools,
 ## **Professional Background**  
 With a **background** in **e-commerce** & **finance**, I have worked on projects for a variety of teams & departments, including: **operations**, **sales**, **merchandising**, **manufacturing**, **logistics**, **data entry**, and **finance**.   
 
-### Refer to my [resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) for more detail on my previous roles & responsibilities.
+#### Refer to my [resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) for more detail on my previous roles & responsibilities.
 
 ### **Key Accomplishments**
-- 18 contracts with General Assembly, 3 as a lead
-- 4.7 avg. instructor rating as an IA
-- Hired & trained 5 analysts at R2Net
-- Trained 2 data engineers on key database & reports at KBRA
-- Had a direct hand in the development of proprietary data processing libraries (KBRA & R2net)
-- Built out reporting system that reduced factory replenishment from 6-month schedule to biweekly
+- 18 completed contracts with General Assembly: 15 as Instructional Associate, 3 as a Lead Instructor
+- Hired & trained 5 analysts over 2 years at R2Net
+- Built out Business Intelligence reporting infrastructure & team at R2Net
+- Trained 2 data engineers on ratings database & key reports at KBRA
+- Had a direct part in the proposal, design, and implementation of proprietary data processing libraries at KBRA & R2net
 
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics (2016)
