@@ -27,7 +27,7 @@ I am driven by **tangible changes** that **improve employees' experience** and *
 ## **Skills**
 To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role and turned it into a Tableau dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).   
    
-*This dashboard outlines my experience with programming languages, including detail on the flavors of SQL.*   
+*This dashboard outlines my experience with programming languages, with detail on flavors of SQL.*   
 ![Languages](/assets/programming_experience.png)
       
 *This dash provides an overview of my skills and their share of responsibilities in my previous roles.*   
