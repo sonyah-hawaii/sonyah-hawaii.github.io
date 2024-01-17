@@ -1,15 +1,22 @@
 Welcome to my portfolio site!    
 If you'd like to get in touch, please reach out on LinkedIn or via email.   
    
-### [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
+### [[!Resume](https://icons8.com/icon/44091/resume) Resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
 
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.
 
-I am driven by **tangible changes** that **improve employees' experience** and **productivity** & **allow businesses** to **leverage key data** more **quickly** and **accurately**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
+### **Key Accomplishments**
+- 18 completed contracts with General Assembly: 15 as Instructional Associate, 3 as a Lead Instructor
+- Hired & trained 5 analysts over 2 years at R2Net
+- Built out Business Intelligence reporting infrastructure & team at R2Net
+- Trained 2 data engineers on ratings database & key reports at KBRA
+- Had a direct part in the proposal, design, and implementation of proprietary data processing libraries at KBRA & R2net
+
+## **Professional Background**  
+With a **background** in **e-commerce** & **finance**, I have worked on projects for a variety of teams & departments, including: **operations**, **sales**, **merchandising**, **manufacturing**, **logistics**, **data entry**, and **finance**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
    
-As a manager, I strive to create a positive collaborative environment allowing team members to succeed in their own goals and build their capabilities to deliver sustained, notable value.   
-As a colleague, I focus on proactive communication, building trust, and minimizing resource conflicts.   
+I am driven by **tangible changes** that **improve employees' experience** and **productivity** & **allow businesses** to **leverage key data** more **quickly** and **accurately**.  
     
 ## **Skills**
 To quantify & demonstrate my skillset, I created a list of the languages, tools, and soft skills I have used throughout my work experience and tallied up the frequency of use for each role and turned it into a Tableau dashboard. You can view the full workbook & interactive dashboard [here](https://public.tableau.com/views/SkillsDashboard_17017951188280/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link).   
@@ -22,19 +29,6 @@ To quantify & demonstrate my skillset, I created a list of the languages, tools,
      
 *There's also a detailed view of skills used in roles, grouped by type.*
 ![Skills-by-job](/assets/skills_by_job.png)
-       
-
-## **Professional Background**  
-With a **background** in **e-commerce** & **finance**, I have worked on projects for a variety of teams & departments, including: **operations**, **sales**, **merchandising**, **manufacturing**, **logistics**, **data entry**, and **finance**.   
-
-#### Refer to my [resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) for more detail on my previous roles & responsibilities.
-
-### **Key Accomplishments**
-- 18 completed contracts with General Assembly: 15 as Instructional Associate, 3 as a Lead Instructor
-- Hired & trained 5 analysts over 2 years at R2Net
-- Built out Business Intelligence reporting infrastructure & team at R2Net
-- Trained 2 data engineers on ratings database & key reports at KBRA
-- Had a direct part in the proposal, design, and implementation of proprietary data processing libraries at KBRA & R2net
 
 ## **Academic Experience**
 ### B.A., Honors in Art History & Economics (2016)
