@@ -13,10 +13,11 @@ If you'd like to get in touch, please reach out on LinkedIn or via email.
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.
 
 ### **Key Accomplishments**
-- 18 completed contracts and over 250 students trained over 3 years at General Assembly
-- Had a direct part in the proposal, design, and implementation of proprietary data processing libraries at KBRA & R2net
-- Trained 2 data engineers on ratings database, data objects, and key reports at KBRA
-- Built out Business Intelligence reporting infrastructure & team at R2Net
+- 18 completed contracts and 250+ students trained on SQL, Tableau, and Python at General Assembly
+- Direct involvement in the proposal, design, and implementation of proprietary data processing Python libraries at KBRA & R2net
+- Served as technical Product Owner for both data engineering teams at KBRA
+- Trained 2 data engineers on ratings database, data objects, and key PowerBI & Excel reports at KBRA
+- Built Business Intelligence reporting infrastructure from the ground up at R2Net
 - Hired & trained 5 analysts over 2 years at R2Net
 
 ## **Professional Background**  
