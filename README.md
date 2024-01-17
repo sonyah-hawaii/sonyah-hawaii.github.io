@@ -5,7 +5,6 @@ body {
 </style>
 
 Welcome to my portfolio site!    
-If you'd like to get in touch, please reach out on LinkedIn or via email.   
    
 ### [![Resume](https://img.icons8.com/dotty/80/resume.png){: width="3%"} Resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
@@ -55,7 +54,7 @@ To quantify & demonstrate my skillset, I created a list of the languages, tools,
 **Featured Project:** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)   
 
 ## **Other**
-### *Places Lived (in order of time)*: Honolulu, New York, Switzerland, Rome, Milan
-### *Languages*: English (native), Italian (advanced), French (proficient)
-### *Hobbies*: painting & drawing, backgammon, reading, cooking, thrifting
-### *Shameless indulgences*: reality tv & anything sea salt caramel
+* Places Lived (in order of time): Honolulu, New York, Switzerland, Rome, Milan
+* Languages: English (native), Italian (advanced), French (proficient)
+* Hobbies: painting & drawing, backgammon, reading, cooking, thrifting
+* Shameless indulgences: reality tv & anything sea salt caramel
