@@ -13,11 +13,11 @@ If you'd like to get in touch, please reach out on LinkedIn or via email.
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.
 
 ### **Key Accomplishments**
-- 18 completed contracts with General Assembly: 15 as Instructional Associate, 3 as a Lead Instructor
-- Hired & trained 5 analysts over 2 years at R2Net
-- Built out Business Intelligence reporting infrastructure & team at R2Net
-- Trained 2 data engineers on ratings database & key reports at KBRA
+- 18 completed contracts and over 250 students trained over 3 years at General Assembly
 - Had a direct part in the proposal, design, and implementation of proprietary data processing libraries at KBRA & R2net
+- Trained 2 data engineers on ratings database, data objects, and key reports at KBRA
+- Built out Business Intelligence reporting infrastructure & team at R2Net
+- Hired & trained 5 analysts over 2 years at R2Net
 
 ## **Professional Background**  
 With a **background** in **e-commerce** & **finance**, I have worked on projects for a variety of teams & departments, including: **operations**, **sales**, **merchandising**, **manufacturing**, **logistics**, **data entry**, and **finance**. My expertise is in **overhauling legacy systems** by **documenting** and **pooling** **databases**, **creating data objects** aligned with business logic, and building out **scalable reporting systems** that can easily adapt to evolving needs across the business.   
@@ -40,21 +40,21 @@ To quantify & demonstrate my skillset, I created a list of the languages, tools,
 ### B.A., Honors in Art History & Economics (2016)
 ### Franklin University Switzerland
 #### *Magna cum laude, 3.69 GPA*
-### **_Featured Projects_**
+### **Featured Projects**
 - Honors Thesis: [The Cultural Economy Evolution of Communist China](https://www.dropbox.com/s/gsgqfrrfpdt7qh1/Senior%20Project.pdf?dl=0)
 - [Variables of Renewable Energy Technologies & Consumption](https://drive.google.com/file/d/0Bzl5OOP0E_4ld2dhYmhoTzVnYUE/view?resourcekey=0-owW0jMXz2Rw2ryLsqcmWJg)
 - [Modeling Retention At FUS](https://www.slideshare.net/SonyahSeiden/retention-at-fus-63031477)
 
 ## **Technical Training**
-Certificate in Product Management (2021)   
-**_Featured Project:_** [SecondSeid](https://docs.google.com/presentation/d/1QKnIY2CV-IryE60fJK4vqi5bh5KWzC5ZHBQ_wkm0OpU/edit?usp=sharing)   
-Data Science Fellowship (2018)   
-**_Featured Project:_** [Modeling CO2 Consumption & Abatement with Bayesian Regression](https://github.com/sonyah-hawaii/Capstone)   
-Certificate in Data Analytics (2018)   
-**_Featured Project:_** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)   
+### Certificate in Product Management (2021)   
+**Featured Project:** [SecondSeid](https://docs.google.com/presentation/d/1QKnIY2CV-IryE60fJK4vqi5bh5KWzC5ZHBQ_wkm0OpU/edit?usp=sharing)   
+### Data Science Fellowship (2018)   
+**Featured Project:** [Modeling CO2 Consumption & Abatement with Bayesian Regression](https://github.com/sonyah-hawaii/Capstone)   
+### Certificate in Data Analytics (2018)   
+**Featured Project:** [Querying Firefox DB](https://github.com/sonyah-hawaii/SQL_Queries)   
 
 ## **Other**
 ### *Places Lived (in order of time)*: Honolulu, New York, Switzerland, Rome, Milan
 ### *Languages*: English (native), Italian (advanced), French (proficient)
 ### *Hobbies*: painting & drawing, backgammon, reading, cooking, thrifting
-### *Shameless indulgences*: reality tv, spa days, anything sea salt caramel
+### *Shameless indulgences*: reality tv & anything sea salt caramel
