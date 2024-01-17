@@ -1,7 +1,13 @@
+<style>
+body {
+  background-image: url('https://www.toptal.com/designers/subtlepatterns/uploads/watercolor.png');
+}
+</style>
+
 Welcome to my portfolio site!    
 If you'd like to get in touch, please reach out on LinkedIn or via email.   
    
-### [[!Resume](https://icons8.com/icon/44091/resume) Resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
+### [![Resume](https://icons8.com/icon/44091/resume) Resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
 
 ## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.
