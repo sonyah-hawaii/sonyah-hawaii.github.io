@@ -6,7 +6,7 @@ body {
 
 Welcome to my portfolio site!    
    
-### [![Resume](https://img.icons8.com/dotty/80/resume.png){: width="3%"}](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png){: width="3%"}](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png){: width="3%"}](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"}](https://public.tableau.com/app/profile/sonyah/vizzes)   
+### [![Resume](https://img.icons8.com/dotty/80/resume.png){: width="3%"}](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png)](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"}](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
 
 ## Data professional with 6 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a leadership role or track as Senior, Team Lead, or Manager.
