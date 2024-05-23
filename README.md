@@ -6,10 +6,10 @@ body {
 
 Welcome to my portfolio site!    
    
-### [![](https://img.icons8.com/dotty/80/resume.png){: width="3%"} Resume](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sonyahseiden/) | [![](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/sonyah-hawaii) | [![](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"} Tableau](https://public.tableau.com/app/profile/sonyah/vizzes)   
+### [![Resume](https://img.icons8.com/dotty/80/resume.png){: width="3%"}](./assets/Sonyah%20G%20Seiden%20-%20Resume.pdf) | [![LinkedIn](https://i.stack.imgur.com/gVE0j.png){: width="3%"}](https://www.linkedin.com/in/sonyahseiden/) | [![GitHub](https://i.stack.imgur.com/tskMh.png){: width="3%"}](https://github.com/sonyah-hawaii) | [![Tableau](https://logowik.com/content/uploads/images/tableau-software.jpg){: width="3%"}](https://public.tableau.com/app/profile/sonyah/vizzes)   
 **Email**: *sonyahseiden@gmail.com*   
 
-## Data professional with 5 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a role as Senior, Team Lead, or Manager.
+## Data professional with 6 years' experience ready for the next opportunity to tackle complex projects with broad impact. Looking for a leadership role or track as Senior, Team Lead, or Manager.
 
 ### **Key Accomplishments**
 - 18 completed contracts and 250+ students trained on SQL, Tableau, and Python at General Assembly
